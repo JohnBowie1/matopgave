@@ -1,0 +1,86 @@
+.main {
+    height: 1500px;
+    background-color: rgb(219, 216, 216);
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Shojumaru', cursive;
+    color: green;
+    margin: 0px;
+}
+
+
+.elononthepipe {
+    height: 100%;
+}
+
+.titel {
+    font-size: 30px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    background-color: green;
+    width: 30px;
+    padding: 7px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 7px; 
+    position: relative;
+    right: 19px;
+    margin: 3px;
+    color: black;
+}
+
+.groen {
+    width: 38px;
+    background-color: #72B957;
+    border-color:  #D8E04F;
+}
+
+.gulroed {
+    background-color: yellow;
+    border-color: red;
+}
+.cyan {
+    background-color: cyan;
+    border-color: blue;
+}
+.lyseblaa {
+    background-color: lightblue;
+    border-color: #D80B73;
+}
+
+.orangeoglilla {
+    background-color: orange;
+    border-color: purple;
+}
+
+.guloglilla {
+    background-color: yellow;
+    border-color: purple;
+}
+
+.orangeogroed {
+    background-color: orange;
+    border-color: red;
+}
+
+.gulogroed {
+    background-color: yellow;
+    border-color: red;
+}
+
+.blaaogroed {
+    background-color: blue;
+    border-color: red;
+}
+
+.lysegroenogblaa {
+    background-color: lightgreen;
+    border-color: blue;
+}
